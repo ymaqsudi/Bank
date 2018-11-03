@@ -15,6 +15,7 @@ public class Bank {
 	
 	// Pascal syntax = Bank
 	// Hello world - Yaseen
+	// TEst
 	
 	public void setNewName() {
 		System.out.println("Insert name here: ");
